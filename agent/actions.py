@@ -1,1 +1,1 @@
-VALID_ACTIONS = ["north", "south", "east", "west", "look", "pickup", "unlock"]
+VALID_VERBS = ["move", "take", "look"]
